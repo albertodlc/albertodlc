@@ -8,4 +8,4 @@ I am always open to `new technologies` an `programming languages`, from Classic 
 - 🌱 I’m currently learning `HTML5`, `CSS`, `JS` and `React.js` (Front-end) and `Python` (Back-end).
 - 🚀 I’m looking for help with `Open Source projects`.
 - 💬 Ask me about new technologies, interesting Frameworks and projects.
-- 🌐 Find me on the web at [syntax-error.dev](https://www.#.dev)
+- 🌐 Find me at [syntax-error.dev](https://www.#.dev)
